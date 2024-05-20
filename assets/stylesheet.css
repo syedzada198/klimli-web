@@ -108,6 +108,14 @@
 
 
 /* contact page start */
+.contact-heading{
+    text-align: center;
+    margin: 30px;
+}
+.contact-heading p{
+    font-size: 20px;
+
+}
 .set-font-size{
     font-size: 18px;
 }
