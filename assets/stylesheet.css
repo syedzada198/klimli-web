@@ -105,3 +105,18 @@
     font-size: 12px;
   }
 /* Home page end */
+
+
+/* contact page start */
+.set-font-size{
+    font-size: 18px;
+}
+
+.sub-button-set{
+    background-color: #1B3087 !important;
+    color: white !important;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+/* contact page end */
