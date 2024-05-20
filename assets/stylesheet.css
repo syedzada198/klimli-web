@@ -62,13 +62,14 @@
 /* Home page strat*/
 .background-image {
     height: 300px;
-    background-image: url('img/main-background1.png');
+    background:rgba(0, 0, 0, 0.5)url(img/main-background1.png);
     background-size: cover;
     background-position: center;
     position: relative;
     border-radius: 10px !important;
     margin: 10px 20px;
-    opacity: 0.5; 
+    background-blend-mode: darken;
+    /* opacity: 0.5;  */
   }
   
   .text-container {
@@ -79,6 +80,9 @@
   text-align: center;
   color: #1B3087;
     
+  }
+  .text-container h1{
+    font-weight: 700;
   }
 
   .adjust-main-paragraph{
