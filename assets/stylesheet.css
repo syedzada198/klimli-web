@@ -206,3 +206,44 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border: none !important;
 }
 /* Donate-klimli end */
+
+
+
+/* Tax topics start */
+.add-bg-new {
+    background-image: url('img/tax-topic-bg.png');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+    align-items: center;
+}
+
+.card-horizontal img {
+    max-height: 155px;
+    height: auto;
+}
+
+.card-horizontal .card-body {
+    flex: 1;
+}
+
+.add-padding {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ececec;
+}
+
+.set-icon i {
+    background-color: #1B3087;
+    padding: 10px;
+    color: white;
+    border-radius: 24px;
+    
+}
+/* Tax topics end */
