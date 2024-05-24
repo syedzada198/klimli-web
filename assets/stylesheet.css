@@ -251,7 +251,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 
 /* About Us Start*/
 .image-container {
-    height: 380px;
+    height: 400px;
     background-size: cover;
     background-position: center;
     margin-bottom: 10px;
@@ -270,17 +270,30 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
 }
 .add-bg1{
-    background-image: url(img/about-us1.png);
+    background-image: url(img/about-us-1.png);
 }
 .add-bg2{
-    background-image: url(img/about-us2.png);
+    background-image: url(img/about-us-2.png);
 }
 .add-bg3{
-    background-image: url(img/about-us3.png);
+    background-image: url(img/about-us-3.png);
 }
 .add-bg4{
-    background-image: url(img/about-us4.png);
+    background-image: url(img/about-us-4.png);
 }
+.add-bg5{
+    background-image: url(img/about-us-5.png);
+}
+.add-bg6{
+    background-image: url(img/about-us-6.png);
+}
+.add-bg7{
+    background-image: url(img/about-us-7.png);
+}
+.add-bg8{
+    background-image: url(img/about-us-8.png);
+}
+
 .about-heading {
     text-align: center;
     margin: 30px 0;
@@ -288,6 +301,13 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 
 .about-all-headings {
     text-align: center;
-    margin: 10px 0;
+    margin: 14px 0;
+}
+.about-us-heading-bg{
+    background-color: #1B3087;
+    color: white;
+    border-radius: 2px 2px 25px 25px;
+    margin: 15px 0;
+    text-align: center;
 }
 /* About us end */
