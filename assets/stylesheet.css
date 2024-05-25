@@ -293,7 +293,7 @@ a {
 
 .overlay-add {
     width: 80%;
-    background-color: #1B3087;
+    background-color: #1b3187d8;
     text-align: center;
     position: absolute;
     top: 50%;
@@ -301,6 +301,7 @@ a {
     transform: translate(-50%, -50%);
     color: white;
     border-radius: 20px;
+    
 }
 
 .add-bg1 {
@@ -351,6 +352,11 @@ a {
     border-radius: 2px 2px 25px 25px;
     margin: 15px 0;
     text-align: center;
+    padding: 10px;
+}
+
+.overlay-add h5,p{
+    padding: 10px;
 }
 
 /* About us end */
